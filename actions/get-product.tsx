@@ -1,3 +1,5 @@
+'use client'
+
 import { Product } from "@/type";
 
 const URL=`${process.env.NEXT_PUBLIC_API_URL}/products`

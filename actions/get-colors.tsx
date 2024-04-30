@@ -1,3 +1,5 @@
+'use client'
+
 import { Color } from "@/type";
 
 const URL=`${process.env.NEXT_PUBLIC_API_URL}/colors`
