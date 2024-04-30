@@ -1,4 +1,3 @@
-'use client'
 
 import { Product } from "@/type";
 import qs from 'query-string'
